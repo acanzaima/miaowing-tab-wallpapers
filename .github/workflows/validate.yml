@@ -1,0 +1,42 @@
+name: Validate Wallpapers
+
+on:
+  push:
+    paths:
+      - wallpapers.json
+      - package.json
+      - scripts/**
+      - images/**
+      - schema/wallpapers.schema.json
+      - .github/workflows/validate.yml
+  pull_request:
+    paths:
+      - wallpapers.json
+      - package.json
+      - scripts/**
+      - images/**
+      - schema/wallpapers.schema.json
+      - .github/workflows/validate.yml
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check generated manifest
+        run: npm run check
+
+      - name: Validate wallpapers.json
+        run: npm run validate

@@ -1,0 +1,17 @@
+{
+  "lsp": {
+    "json-language-server": {
+      "settings": {
+        "json": {
+          "schemas": [
+            {
+              "fileMatch": ["wallpapers.json"],
+              "url": "./schema/wallpapers.schema.json"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+

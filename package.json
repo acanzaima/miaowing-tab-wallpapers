@@ -1,0 +1,13 @@
+{
+  "name": "miaowing-tab-wallpapers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-wallpapers.mjs",
+    "check": "node scripts/generate-wallpapers.mjs --check",
+    "validate": "node scripts/validate-wallpapers.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.1"
+  }
+}
