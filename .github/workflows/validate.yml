@@ -1,20 +1,21 @@
 name: Validate Wallpapers
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - wallpapers.json
       - package.json
-      - scripts/**
-      - images/**
+      - "scripts/**"
+      - "images/**"
       - schema/wallpapers.schema.json
       - .github/workflows/validate.yml
   pull_request:
     paths:
       - wallpapers.json
       - package.json
-      - scripts/**
-      - images/**
+      - "scripts/**"
+      - "images/**"
       - schema/wallpapers.schema.json
       - .github/workflows/validate.yml
 
