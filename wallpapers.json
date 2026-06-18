@@ -127,29 +127,87 @@
       },
       "wallpapers": [
         {
-          "id": "city-city-bridge",
-          "title": "City Bridge",
-          "thumb": "images/city/_thumbs/city-bridge-1b95f938.webp",
-          "url": "images/city/city-bridge.jpg",
+          "id": "city-beijing",
+          "title": "Beijing",
+          "thumb": "images/city/_thumbs/beijing-4bce4cb7.webp",
+          "url": "images/city/beijing.jpg",
           "type": "image",
           "color": "#334155",
           "tags": [
             "city",
-            "bridge"
+            "beijing"
           ]
         },
         {
-          "id": "city-new-york-skyline",
-          "title": "New York Skyline",
-          "thumb": "images/city/_thumbs/new-york-skyline-313a73e2.webp",
-          "url": "images/city/new-york-skyline.jpg",
+          "id": "city-chengdu",
+          "title": "Chengdu",
+          "thumb": "images/city/_thumbs/chengdu-7b7b693e.webp",
+          "url": "images/city/chengdu.jpg",
           "type": "image",
           "color": "#334155",
           "tags": [
             "city",
-            "new",
-            "york",
-            "skyline"
+            "chengdu"
+          ]
+        },
+        {
+          "id": "city-chongqing",
+          "title": "Chongqing",
+          "thumb": "images/city/_thumbs/chongqing-04f20e12.webp",
+          "url": "images/city/chongqing.jpg",
+          "type": "image",
+          "color": "#334155",
+          "tags": [
+            "city",
+            "chongqing"
+          ]
+        },
+        {
+          "id": "city-hangzhou",
+          "title": "Hangzhou",
+          "thumb": "images/city/_thumbs/hangzhou-946a7302.webp",
+          "url": "images/city/hangzhou.jpg",
+          "type": "image",
+          "color": "#334155",
+          "tags": [
+            "city",
+            "hangzhou"
+          ]
+        },
+        {
+          "id": "city-shanghai",
+          "title": "Shanghai",
+          "thumb": "images/city/_thumbs/shanghai-e2ae7519.webp",
+          "url": "images/city/shanghai.jpg",
+          "type": "image",
+          "color": "#334155",
+          "tags": [
+            "city",
+            "shanghai"
+          ]
+        },
+        {
+          "id": "city-shenzhen",
+          "title": "Shenzhen",
+          "thumb": "images/city/_thumbs/shenzhen-023ed483.webp",
+          "url": "images/city/shenzhen.jpg",
+          "type": "image",
+          "color": "#334155",
+          "tags": [
+            "city",
+            "shenzhen"
+          ]
+        },
+        {
+          "id": "city-wuhan",
+          "title": "Wuhan",
+          "thumb": "images/city/_thumbs/wuhan-4f8c5283.webp",
+          "url": "images/city/wuhan.jpg",
+          "type": "image",
+          "color": "#334155",
+          "tags": [
+            "city",
+            "wuhan"
           ]
         }
       ]
