@@ -15,7 +15,11 @@
           "url": "images/nature/forbidden-city.jpg",
           "type": "image",
           "color": "#2f6b4f",
-          "tags": ["nature", "forbidden", "city"]
+          "tags": [
+            "nature",
+            "forbidden",
+            "city"
+          ]
         },
         {
           "id": "nature-forest-mist",
@@ -24,7 +28,11 @@
           "url": "images/nature/forest-mist.jpg",
           "type": "image",
           "color": "#2f6b4f",
-          "tags": ["nature", "forest", "mist"]
+          "tags": [
+            "nature",
+            "forest",
+            "mist"
+          ]
         },
         {
           "id": "nature-spring-flowers",
@@ -33,7 +41,11 @@
           "url": "images/nature/spring-flowers.jpg",
           "type": "image",
           "color": "#2f6b4f",
-          "tags": ["nature", "spring", "flowers"]
+          "tags": [
+            "nature",
+            "spring",
+            "flowers"
+          ]
         }
       ]
     },
@@ -51,7 +63,10 @@
           "url": "images/animal/cats.jpg",
           "type": "image",
           "color": "#8b5e34",
-          "tags": ["animal", "cats"]
+          "tags": [
+            "animal",
+            "cats"
+          ]
         },
         {
           "id": "animal-cool-dog",
@@ -60,7 +75,11 @@
           "url": "images/animal/cool-dog.jpg",
           "type": "image",
           "color": "#8b5e34",
-          "tags": ["animal", "cool", "dog"]
+          "tags": [
+            "animal",
+            "cool",
+            "dog"
+          ]
         },
         {
           "id": "animal-dogs",
@@ -69,7 +88,10 @@
           "url": "images/animal/dogs.jpg",
           "type": "image",
           "color": "#8b5e34",
-          "tags": ["animal", "dogs"]
+          "tags": [
+            "animal",
+            "dogs"
+          ]
         },
         {
           "id": "animal-parrot",
@@ -78,7 +100,10 @@
           "url": "images/animal/parrot.jpg",
           "type": "image",
           "color": "#8b5e34",
-          "tags": ["animal", "parrot"]
+          "tags": [
+            "animal",
+            "parrot"
+          ]
         },
         {
           "id": "animal-squirrel",
@@ -87,7 +112,10 @@
           "url": "images/animal/squirrel.jpg",
           "type": "image",
           "color": "#8b5e34",
-          "tags": ["animal", "squirrel"]
+          "tags": [
+            "animal",
+            "squirrel"
+          ]
         }
       ]
     },
@@ -105,7 +133,11 @@
           "url": "images/city/city-river-dusk.jpg",
           "type": "image",
           "color": "#334155",
-          "tags": ["city", "river", "dusk"]
+          "tags": [
+            "city",
+            "river",
+            "dusk"
+          ]
         },
         {
           "id": "city-london-skyline",
@@ -114,7 +146,11 @@
           "url": "images/city/london-skyline.jpg",
           "type": "image",
           "color": "#334155",
-          "tags": ["city", "london", "skyline"]
+          "tags": [
+            "city",
+            "london",
+            "skyline"
+          ]
         },
         {
           "id": "city-manhattan-sunset",
@@ -123,7 +159,11 @@
           "url": "images/city/manhattan-sunset.jpg",
           "type": "image",
           "color": "#334155",
-          "tags": ["city", "manhattan", "sunset"]
+          "tags": [
+            "city",
+            "manhattan",
+            "sunset"
+          ]
         }
       ]
     },
@@ -141,7 +181,11 @@
           "url": "images/space/earth-from-space.jpg",
           "type": "image",
           "color": "#111827",
-          "tags": ["space", "earth", "from"]
+          "tags": [
+            "space",
+            "earth",
+            "from"
+          ]
         },
         {
           "id": "space-starry-sky",
@@ -150,7 +194,11 @@
           "url": "images/space/starry-sky.jpg",
           "type": "image",
           "color": "#111827",
-          "tags": ["space", "starry", "sky"]
+          "tags": [
+            "space",
+            "starry",
+            "sky"
+          ]
         }
       ]
     },
@@ -168,7 +216,11 @@
           "url": "images/abstract/desert-dunes.jpg",
           "type": "image",
           "color": "#4f46e5",
-          "tags": ["abstract", "desert", "dunes"]
+          "tags": [
+            "abstract",
+            "desert",
+            "dunes"
+          ]
         },
         {
           "id": "abstract-twilight-sky",
@@ -177,7 +229,11 @@
           "url": "images/abstract/twilight-sky.jpg",
           "type": "image",
           "color": "#4f46e5",
-          "tags": ["abstract", "twilight", "sky"]
+          "tags": [
+            "abstract",
+            "twilight",
+            "sky"
+          ]
         }
       ]
     },
@@ -195,7 +251,11 @@
           "url": "images/minimal/autumn-leaves.jpg",
           "type": "image",
           "color": "#e5e7eb",
-          "tags": ["minimal", "autumn", "leaves"]
+          "tags": [
+            "minimal",
+            "autumn",
+            "leaves"
+          ]
         },
         {
           "id": "minimal-kitten",
@@ -204,7 +264,10 @@
           "url": "images/minimal/kitten.jpg",
           "type": "image",
           "color": "#e5e7eb",
-          "tags": ["minimal", "kitten"]
+          "tags": [
+            "minimal",
+            "kitten"
+          ]
         }
       ]
     },
@@ -222,7 +285,11 @@
           "url": "images/illustration/calm-coast.jpg",
           "type": "image",
           "color": "#f59e0b",
-          "tags": ["illustration", "calm", "coast"]
+          "tags": [
+            "illustration",
+            "calm",
+            "coast"
+          ]
         },
         {
           "id": "illustration-coastal-waves",
@@ -231,7 +298,11 @@
           "url": "images/illustration/coastal-waves.jpg",
           "type": "image",
           "color": "#f59e0b",
-          "tags": ["illustration", "coastal", "waves"]
+          "tags": [
+            "illustration",
+            "coastal",
+            "waves"
+          ]
         },
         {
           "id": "illustration-waterfront",
@@ -240,7 +311,10 @@
           "url": "images/illustration/waterfront.jpg",
           "type": "image",
           "color": "#f59e0b",
-          "tags": ["illustration", "waterfront"]
+          "tags": [
+            "illustration",
+            "waterfront"
+          ]
         }
       ]
     },
@@ -257,7 +331,11 @@
           "thumb": "images/architecture/_thumbs/coastal-house-fac5fa59.webp",
           "url": "images/architecture/coastal-house.jpg",
           "type": "image",
-          "tags": ["architecture", "coastal", "house"]
+          "tags": [
+            "architecture",
+            "coastal",
+            "house"
+          ]
         },
         {
           "id": "architecture-sculptural-house",
@@ -265,7 +343,11 @@
           "thumb": "images/architecture/_thumbs/sculptural-house-a8784bca.webp",
           "url": "images/architecture/sculptural-house.jpg",
           "type": "image",
-          "tags": ["architecture", "sculptural", "house"]
+          "tags": [
+            "architecture",
+            "sculptural",
+            "house"
+          ]
         }
       ]
     },
@@ -282,7 +364,10 @@
           "thumb": "images/car/_thumbs/extremeforest-e53d99a5.webp",
           "url": "images/car/ExtremeForest.jpg",
           "type": "image",
-          "tags": ["car", "extremeforest"]
+          "tags": [
+            "car",
+            "extremeforest"
+          ]
         },
         {
           "id": "car-u7",
@@ -290,7 +375,10 @@
           "thumb": "images/car/_thumbs/u7-cc2989c7.webp",
           "url": "images/car/U7.jpg",
           "type": "image",
-          "tags": ["car", "u7"]
+          "tags": [
+            "car",
+            "u7"
+          ]
         },
         {
           "id": "car-u9-x",
@@ -298,7 +386,11 @@
           "thumb": "images/car/_thumbs/u9-x-fa0b22b7.webp",
           "url": "images/car/U9-X.jpg",
           "type": "image",
-          "tags": ["car", "u9-x"]
+          "tags": [
+            "car",
+            "u9",
+            "x"
+          ]
         }
       ]
     }
