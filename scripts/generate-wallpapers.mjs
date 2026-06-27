@@ -48,6 +48,16 @@ const BUILT_IN_CATEGORIES = [
     key: 'illustration',
     label: { 'zh-CN': '插画', en: 'Illustration' },
     color: '#f59e0b'
+  },
+  {
+    key: 'architecture',
+    label: { 'zh-CN': '建筑', en: 'Architecture' },
+    color: '#64748b'
+  },
+  {
+    key: 'car',
+    label: { 'zh-CN': '汽车', en: 'Car' },
+    color: '#334155'
   }
 ]
 

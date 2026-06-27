@@ -321,7 +321,7 @@
     {
       "key": "architecture",
       "label": {
-        "zh-CN": "Architecture",
+        "zh-CN": "建筑",
         "en": "Architecture"
       },
       "wallpapers": [
@@ -331,6 +331,7 @@
           "thumb": "images/architecture/_thumbs/coastal-house-fac5fa59.webp",
           "url": "images/architecture/coastal-house.jpg",
           "type": "image",
+          "color": "#64748b",
           "tags": [
             "architecture",
             "coastal",
@@ -343,6 +344,7 @@
           "thumb": "images/architecture/_thumbs/sculptural-house-a8784bca.webp",
           "url": "images/architecture/sculptural-house.jpg",
           "type": "image",
+          "color": "#64748b",
           "tags": [
             "architecture",
             "sculptural",
@@ -354,7 +356,7 @@
     {
       "key": "car",
       "label": {
-        "zh-CN": "Car",
+        "zh-CN": "汽车",
         "en": "Car"
       },
       "wallpapers": [
@@ -364,6 +366,7 @@
           "thumb": "images/car/_thumbs/extremeforest-e53d99a5.webp",
           "url": "images/car/ExtremeForest.jpg",
           "type": "image",
+          "color": "#334155",
           "tags": [
             "car",
             "extremeforest"
@@ -375,6 +378,7 @@
           "thumb": "images/car/_thumbs/u7-cc2989c7.webp",
           "url": "images/car/U7.jpg",
           "type": "image",
+          "color": "#334155",
           "tags": [
             "car",
             "u7"
@@ -386,6 +390,7 @@
           "thumb": "images/car/_thumbs/u9-x-fa0b22b7.webp",
           "url": "images/car/U9-X.jpg",
           "type": "image",
+          "color": "#334155",
           "tags": [
             "car",
             "u9",
